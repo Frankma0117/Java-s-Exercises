@@ -7,7 +7,9 @@ In this repository Java exercises are developed . 👊
 ❗❗ All exercises focus on basics topics and simple programs. ❗❗
 
 ## **Nivel básico**
-1. Declare two 2️⃣ numeric variables (with the value you want). Display by console the addtion ➕ , subtraction ➖ , multiplication ✖️ , division ➗ and module (remainder of the division).
+1. Declare two 2️⃣ numeric variables (with the value you want). Display by console the addtion ➕ , subtraction ➖ , multiplication ✖️ , division ➗ and module (remainder of the division). [Basic Operations]([https://pages.github.com/](https://github.com/Frankma0117/Java_exercises/blob/main/Basic_Level/src/Exercise_1.java).
+
+
 3. Declare two numeric variables (with the value you want) and indicated which is greater of the two , if they are the same indicate that too. You see changing the values to verify that it works.
 4. Declara un String que contenga tu nombre, después muestra un mensaje de bienvenida por consola. Por ejemplo: si introduzco «Fernando», me aparezca «Bienvenido Fernando».
   - 4. Modifica la aplicación anterior, para que nos pida el nombre que queremos introducir (recuerda usar JOptionPane).
