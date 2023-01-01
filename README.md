@@ -1,7 +1,10 @@
-# Exercises of Java
+# Exercises of Java ☕ 💻
 
-In this repository Java exercises are developed . 
+In this repository Java exercises are developed . 👊
 
-The exercises are clasified by themes and levels. 
+🔖 The exercises are clasified by themes and levels. 🛗
 
-All exercises focus on basics topics and simple programs.
+❗❗ All exercises focus on basics topics and simple programs. ❗❗
+
+1.Numero uno
+  -Numero 2
