@@ -7,9 +7,9 @@ In this repository Java exercises are developed . 👊
 ❗❗ All exercises focus on basics topics and simple programs. ❗❗
 
 ## **Nivel básico**
-1. Declare two numeric variables (with the value you want). Display by console the addtion , subtraction , multiplication , division and module (remainder of the division).
-2. Declare two numeric variables (with the value you want) and indicated which is greater of the two , if they are the same indicate that too. You see changing the values to verify that it works.
-3. Declara un String que contenga tu nombre, después muestra un mensaje de bienvenida por consola. Por ejemplo: si introduzco «Fernando», me aparezca «Bienvenido Fernando».
+1. Declare 2️⃣ numeric variables (with the value you want). Display by console the addtion ➕ , subtraction ➖ , multiplication ✖️ , division ➗ and module (remainder of the division).
+3. Declare two numeric variables (with the value you want) and indicated which is greater of the two , if they are the same indicate that too. You see changing the values to verify that it works.
+4. Declara un String que contenga tu nombre, después muestra un mensaje de bienvenida por consola. Por ejemplo: si introduzco «Fernando», me aparezca «Bienvenido Fernando».
   - 4. Modifica la aplicación anterior, para que nos pida el nombre que queremos introducir (recuerda usar JOptionPane).
   - 5. Haz una aplicación que calcule el área de un círculo(pi*R2). El radio se pedirá por teclado (recuerda pasar de String a double con Double.parseDouble). Usa la constante PI y el método pow de Math.
   - 6. Lee un número por teclado e indica si es divisible entre 2 (resto = 0). Si no lo es, también debemos indicarlo.
