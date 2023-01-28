@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Exercise_14 {
+public class SecondGradeEquation {
     /*
      * Create an aplication that calculate the equation of second grade . Request
      * the variables a , b and c by console and check before the discriminant (Use

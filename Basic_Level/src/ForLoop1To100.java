@@ -1,4 +1,4 @@
-public class Exercise_11 {
+public class ForLoop1To100 {
     //*Modify the previous exercises with the for bucle. */
     
     public static void main(String[] args) {

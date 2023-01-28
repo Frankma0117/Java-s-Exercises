@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Exercise_9 {
+public class IVACalculator {
     /*
      * Read a number by keyboard that indicates a product price (with decimals) and
      * calculate the final price with IVA of 21%.

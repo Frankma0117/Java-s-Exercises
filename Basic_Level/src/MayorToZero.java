@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Exercise_15 {
+public class MayorToZero {
     /*
      * Read a number by keyboard and check that this number is mayor o equal to zero
      * , if the number is minor to zero repeat the request and show the number by

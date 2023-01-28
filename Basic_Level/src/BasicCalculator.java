@@ -1,4 +1,4 @@
-public class Exercise_1 {
+public class BasicCalculator {
 
     /**Declare two numeric variables (with the value you want). 
      * Display by console the addtion , subtraction ,

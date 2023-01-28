@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 import javax.swing.JOptionPane;
 
-public class Exercise_13 {
+public class SalesCalculator {
     /*
      * Create an aplication that asks us a number of sales and after ask to enter
      * sale by sale . Finally show the sum of all sales.

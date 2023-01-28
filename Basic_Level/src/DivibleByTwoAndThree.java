@@ -1,4 +1,4 @@
-public class Exercise_12 {
+public class DivibleByTwoAndThree {
     /**
      * Show the numbers from one to one hundred divisible by two and three .
      * Use any loop you like.

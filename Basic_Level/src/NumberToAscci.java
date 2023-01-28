@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Exercise_7 {
+public class NumberToAscci {
     /*
      * Read a number by keyword and show by console the respective character ASCCI.
      */

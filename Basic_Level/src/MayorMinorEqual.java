@@ -1,4 +1,4 @@
-public class Exercise_2 {
+public class MayorMinorEqual {
 
     /**
      * Declare two numeric variables (with the value you want) and indicated which

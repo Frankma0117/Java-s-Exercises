@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Exercise_5 {
+public class CircleArea {
     /**
      * Create an aplication that calculate the area of a circle (pi*r^2) . Radious
      * is request by console . Use the **PI** constant and **pow** method of

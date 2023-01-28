@@ -1,6 +1,6 @@
 import javax.swing.JOptionPane;
 
-public class Exercise_4 {
+public class WelcomeMessageJO {
     /**
      * Modify the previous aplication to request the name by JOptionPane.
      **/

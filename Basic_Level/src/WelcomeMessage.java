@@ -1,4 +1,4 @@
-public class Exercise_3 {
+public class WelcomeMessage {
 
     /**
      * Declare a string with your name , later , show a welcome message by console.

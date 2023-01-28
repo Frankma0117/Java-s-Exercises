@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Exercise_8 {
+public class AscciToNumber {
    /*
     * Modify the previous exercises to request the character and show the number in
     * ASCCI table.

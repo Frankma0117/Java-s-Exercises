@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Exercise_6 {
+public class PairNumber {
     /*
      * Read a number by keyword and indicate if the number is divisible by two
      * (rest=0) if the number isn't divisible indicate.
