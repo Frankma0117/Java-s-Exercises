@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class CumulativSumInfity {
+public class CumulativSumInfinity {
     /*
      * Create an aplication that allow insert a number until insert -1 and calculate
      * the total sum of entered numbers
