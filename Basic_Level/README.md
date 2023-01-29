@@ -21,20 +21,12 @@ All exercises are basic and represented tematicas of variables , methods , condi
 13. Create an aplication that asks us a number of sales and after ask to enter sale by sale . Finally show the sum of all sales [SalesCalculator]().
 14. Create an aplication that calculate the equation of second grade . Request the variables a , b and c by console and check before the discriminant (Use the sqlrt of Math) [SecondGradeEquation]().
 15. Read a number by keyboard and check that this number is mayor o equal to zero , if the number is minor to zero repeat the request and show the number by console [MayorToZero]().
+16. Create an aplication with a String that contain a password . Before the aplication ask to enter the password with three attemps. When the user hit the aplication stops and show the message "Enhorabuena" [PasswordValidator]().
+17. Create an aplication that request a day of the week and that say if the day is bussines day or not. Use switch [BusinessDay]().
+18. Read two numbers and generate ten random numbers between those numbers , use the Math.random methos by generate a random number [RandomNumbers](). 
+19. Read a positive number by keyboard and show the number of digits [NumberDigits]().
+20. Read a number by keyboard and indicate if the number is prime or not . The prime number is that one that only is divided into one and itself [PrimeNumber]().
 
-16. Escribe una aplicación con un String que contenga una contraseña cualquiera. Después se te pedirá que introduzcas la contraseña, con 3 intentos. Cuando aciertes ya no pedirá mas la contraseña y mostrara un mensaje diciendo «Enhorabuena». Piensa bien en la condición de salida (3 intentos y si acierta sale, aunque le queden intentos).
-
-Spoiler Inside SelectShow> 17) Crea una aplicación que nos pida un día de la semana y que nos diga si es un dia laboral o no. Usa un switch para ello.
-
-Spoiler Inside SelectShow> 18) Pide por teclado dos número y genera 10 números aleatorios entre esos números. Usa el método Math.random para generar un número entero aleatorio (recuerda el casting de double a int).
-
-Spoiler Inside SelectShow> 19) Pide por teclado un número entero positivo (debemos controlarlo) y muestra el número de cifras que tiene. Por ejemplo: si introducimos 1250, nos muestre que tiene 4 cifras. Tendremos que controlar si tiene una o mas cifras, al mostrar el mensaje.
-Spoiler Inside SelectShow>
-
-20. Pide un número por teclado e indica si es un número primo o no. Un número primo es aquel solo puede dividirse entre 1 y si mismo. Por ejemplo: 25 no es primo, ya que 25 es divisible entre 5, sin embargo, 17 si es primo.
-    Un buen truco para calcular la raíz cuadrada del numero e ir comprobando que si es divisible desde ese numero hasta 1.
-    NOTA: Si se introduce un numero menor o igual que 1, directamente es no primo.
-    Spoiler Inside SelectShow>
 21. Muestra los números primos entre 1 y 100.
     Spoiler Inside SelectShow>
 22. Del siguiente String «La lluvia en Sevilla es una maravilla» cuenta cuantas vocales hay en total (recorre el String con charAt).
