@@ -4,7 +4,7 @@ In this folder development the Java Basic Exercises , this exercises find in the
 
 All exercises are basic and represented tematicas of variables , methods , conditionals and loops
 
-## **Nivel básico**
+## **Basic Level**
 
 1. Declare two 2️⃣ numeric variables (with the value you want). Display by console the addtion ➕ , subtraction ➖ , multiplication ✖️ , division ➗ and module (remainder of the division [BasicCalculator]().
 2. Declare two numeric variables (with the value you want) and indicated which is greater of the two , if they are the same indicate that too. You see changing the values to verify that it works [MayorMinorEqual]().
@@ -26,64 +26,18 @@ All exercises are basic and represented tematicas of variables , methods , condi
 18. Read two numbers and generate ten random numbers between those numbers , use the Math.random methos by generate a random number [RandomNumbers](). 
 19. Read a positive number by keyboard and show the number of digits [NumberDigits]().
 20. Read a number by keyboard and indicate if the number is prime or not . The prime number is that one that only is divided into one and itself [PrimeNumber]().
-
-21. Muestra los números primos entre 1 y 100.
-    Spoiler Inside SelectShow>
-22. Del siguiente String «La lluvia en Sevilla es una maravilla» cuenta cuantas vocales hay en total (recorre el String con charAt).
-
-Spoiler Inside SelectShow> 23) Reemplaza todas las a del String anterior por una e.
-Spoiler Inside SelectShow> 24) Recorre el String del ejercicio 22 y transforma cada carácter a su código ASCII. Muestralos en linea recta, separados por un espacio entre cada carácter.
-
-Spoiler Inside SelectShow> 25) Crea una aplicación llamada CalculadoraPolacaInversaApp, nos pedirá 2 operandos (int) y un signo aritmético (String), según este último se realizara la operación correspondiente. Al final mostrara el resultado en un cuadro de dialogo.
-Los signos aritméticos disponibles son:
-
-+: suma los dos operandos.
--: resta los operandos.
-\*: multiplica los operandos.
-/: divide los operandos, este debe dar un resultado con decimales (double)
-^: 1º operando como base y 2º como exponente.
-%: módulo, resto de la división entre operando1 y operando2.
-Spoiler Inside SelectShow> 26) Realizar la suma del 1 al numero que indiquemos, este debe ser mayor que 1.
-
-Spoiler Inside SelectShow> 27) Crear una aplicación que nos permite insertar números hasta que insertemos un -1. Calcular el numero de números introducidos.
-
-Spoiler Inside SelectShow> 28) Eliminar los espacios de una frase pasada por consola por el usuario.
-
-Spoiler Inside SelectShow> 29) Pedir al usuario que nos escriba frases de forma infinita hasta que insertemos una cadena vacia. Mostrar la cadena resultante
-
-Spoiler Inside SelectShow> 30) Convertir una frase a mayúsculas o minúsculas, que daremos opción a que el usuario lo pida y mostraremos el resultado por pantalla.
-
-Spoiler Inside SelectShow> 31) Mostrar la longitud de una cadena.
-
-Spoiler Inside SelectShow> 32) Pedir dos palabras por teclado, indicar si son iguales.
-
-Spoiler Inside SelectShow> 33) Dada una cadena, extraer la cuarta y quinta letra usando el método substring.
-
-Spoiler Inside SelectShow> 34) Dada una frase, separarlo en palabras.
-
-Spoiler Inside SelectShow> 35) Crea un enum con los días de la semana, pide un día de la semana e indica si es laboral o no (en el main).
-
-Spoiler Inside SelectShow> 36) Modifica el anterior enum para indicar que es día laborable directamente (usar toString).
-
-Spoiler Inside SelectShow> 37) Crea el enum Mes, que contenga como parametros el orden(1,2,3,etc) y el numero de dias (febrero tendra 28 dias siempre).
-
-Estos datos pueden pedirse por separado, asi que tienes que hacer sus respectivos get. No son necesarios los setters.
-
-Create un arrays de Mes (mirate la funcion values), pide un numero por teclado e indica que meses tienen ese numero de dias (toda su informacion).
-
-Por ejemplo, si escribes un 28, este te devolvera la informacion de FEBRERO.
-
-Spoiler Inside SelectShow> 38) Pedir números al usuario y cuando el usuario meta un -1 se terminará el programa.
-Al terminar, mostrará lo siguiente:
-– mayor numero introducido
-– menor numero introducido
-– suma de todos los numeros
-– suma de los numeros positivos
-– suma de los numeros negativos
-– media de la suma (la primera que pido)
-
-El número -1 no contara como número.
-
-Spoiler Inside SelectShow> 39) Realiza un reloj digital que muestre la hora sin parar.
-
-Debe esperar un segundo real para darle mas realismo.
+21. Show prime numbers between one and one hundred [PrimeNumbers1To100]().
+22. Of the String "La lluvia en Sevilla es una maravilla" count the total quantity of vowels [StringVowels]().
+23. Replace all letters of before String by an "e" [ReplaceVowels]().
+24. Iterate throught the previous String and transform all character of this ASCCI code . Show the result in rect line separated by an space between each character [StringToASCCI]().
+25. Create an aplication that request two numbers and a arithmetic sign , perform the operation according to the operators and the sign and show the result. The avalaible signs are "+" for de sum operation , "-" for de substract operation , "*" for de multiplication operation,
+"/" for de division operation , "^" for de power operation and "%" for de module operation [PolishCalculator]().
+26. Perform the sum from one to a specific number greater than one [CumulativeSum]() . 
+27. Create an aplication that allow insert a number until insert -1 and calculate the total sum of entered numbers [CumulativeSumInfinite]().
+28. Delete the blank spaces in a phrase request by console [DeleteBlankSpaces]().
+29. Ask the user that write various phrases until that insert a empty string and show the resulting string [CumulativeString]().
+30. Convert a phrase to uppercase or lowcase depending of the user's choice [UpperLowerCase]().
+31. Show the lenght of the string [StringLenght]().
+32. Ask to the user two words by keyboard and indicate if the words are equals [EqualsWords]().
+33. Extract the four and five letter of the a string [ExtractLetters]().
+34. Separate the words of the phrase and count the quantity of words [SeparateWords]().
