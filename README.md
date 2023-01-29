@@ -6,8 +6,5 @@ In this repository Java exercises are developed . 👊
 
 ❗❗ All exercises focus on basics topics and simple programs. ❗❗
 
-## **Basic Level(https://github.com/Frankma0117/java_exercises/tree/main/Basic_Level)**
-[Basic Level]
-## **[Intermediate Level](https://github.com/Frankma0117/java_exercises/tree/main/Intermediate_Level)**
-[Intermediate Level]
-
+## ** 🐣💻 [Basic Level](https://github.com/Frankma0117/java_exercises/tree/main/Basic_Level) ❗❗**
+## **🐥💻 [Intermediate Level](https://github.com/Frankma0117/java_exercises/tree/main/Intermediate_Level)❗❗**
