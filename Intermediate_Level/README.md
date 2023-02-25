@@ -1,10 +1,11 @@
-## Intermediate Exercises Java
+## ❗Intermediate Exercises Java 🐥 ☕ 💻 ❗
 
-In this folder development the Java Intemediate Exercises , this exercises find in the folder src
+In this folder development the Java Intemediate Exercises , this exercises find in the folder src📁 ❗
 
-The exercise are intermediate and contain handling lists and arrays. 
+❗️ The exercise are intermediate and contain handling lists and arrays, enums and functions. ❗️ 
 
-## **Intermediate Level**
+
+1. Declare two 2️⃣ numeric variables (with the value you want). Display by console the addtion ➕ , subtraction ➖ , multiplication ✖️ , division ➗ and module (remainder of the division [BasicCalculator](https://github.com/Frankma0117/java_exercises/blob/main/Basic_Level/src/BasicCalculator.java).
 
 1. Given an array of integers, calculate the ratios of its elements that are positive, negative, and zero. Print the decimal value of each fraction on a new line with  places after the decimal.[PositiveNegativeZeros]().
 

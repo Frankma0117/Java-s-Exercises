@@ -11,6 +11,7 @@ public class StringToASCCI {
             int characterASCCI = (int)string.charAt(i);
             System.out.print(characterASCCI + "-");
         }
+        🙂 
      }
 
 }

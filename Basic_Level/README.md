@@ -2,7 +2,7 @@
 
 In this folder development the Java Basic Exercises , this exercises find in the folder src 📁 ❗
 
-❗ All exercises are basic and represented tematicas of variables , methods , conditionals and loops ❗
+❗ All exercises are basic and represented tematicas of variables , conditionals and loops with basic exercises ❗️ 
 
 1. Declare two 2️⃣ numeric variables (with the value you want). Display by console the addtion ➕ , subtraction ➖ , multiplication ✖️ , division ➗ and module (remainder of the division [BasicCalculator](https://github.com/Frankma0117/java_exercises/blob/main/Basic_Level/src/BasicCalculator.java).
 2. Declare two numeric variables (with the value you want) and indicated which is greater of the two , if they are the same indicate that too. You see changing the values to verify that it works [MayorMinorEqual](https://github.com/Frankma0117/java_exercises/blob/main/Basic_Level/src/MayorMinorEqual.java).
